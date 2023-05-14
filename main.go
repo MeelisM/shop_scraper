@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	helpers.RimiScraper()
+	helpers.ScrapeRimiData()
 
 }
